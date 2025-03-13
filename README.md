@@ -1,6 +1,7 @@
 # Projet de visualisation des données
 Autheur : Baptiste Grignon & Thomas Fassin
-Stockage public du code de traitement des données pour le cours de Visualisation Interactive des Données donnée par Dr. Romain Vuillemot à l'Ecole Centrale de Lyon. Le projet est disponible ici : [https://observablehq.com/d/ccc1fb0bd9d2c6c3]
+
+Stockage public du code de traitement des données pour le cours de Visualisation Interactive des Données donnée par Dr. Romain Vuillemot à l'Ecole Centrale de Lyon. Le projet est disponible ici : https://observablehq.com/d/ccc1fb0bd9d2c6c3
 
 Les données sont téléchargés depuis l'API de [Copernicus](https://data.marine.copernicus.eu/product/MULTIOBS_GLO_PHY_TSUV_3D_MYNRT_015_012/description) automatiquement dans les scripts python et stocké dans le dossier datasets (il faut vous inscrire sur la plateforme et remplacer le nom et le mot de passe par le votre).
 
